@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TYSessions2019", "TYSessions2019\TYSessions2019.csproj", "{5131F7AE-F409-456F-BF3B-8F3F1D8E9EF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivityTracker", "ActivityTracker\ActivityTracker.csproj", "{AC210E17-3C6E-46C0-8980-C0769673FA0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5131F7AE-F409-456F-BF3B-8F3F1D8E9EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5131F7AE-F409-456F-BF3B-8F3F1D8E9EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5131F7AE-F409-456F-BF3B-8F3F1D8E9EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC210E17-3C6E-46C0-8980-C0769673FA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC210E17-3C6E-46C0-8980-C0769673FA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC210E17-3C6E-46C0-8980-C0769673FA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC210E17-3C6E-46C0-8980-C0769673FA0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

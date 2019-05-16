@@ -12,7 +12,9 @@ namespace TYSessions2019
          
     static void Main(string[] args)
         {
-            
+            Activity.Track("Exercise 1 started");
+            Console.WriteLine("Press any key to Exit");
+            Console.ReadKey();
         }
     }
 }
